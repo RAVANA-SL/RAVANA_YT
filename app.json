@@ -5,8 +5,8 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/SLdevilX/Youtube-Downloader-Bot",
-  "success_url": "https://t.me/youtubdlbot",
+  "repository": "https://github.com/RAVANA-SL/RAVANA_YT",
+  "success_url": "https://t.me/ravana",
   "website": "https://lasiya.ml",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
